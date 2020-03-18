@@ -27,19 +27,52 @@ nav ul li a:hover {
     background-color: red;
 }
 
+.container h2 {
+    margin-bottom: 80px;
+    text-align: center;
+}
 
+.container .logo {
+    width: 62%;
+    /* background-color: teal; */
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row-reverse;
+}
 
+.container .logo .item-logo {
+    margin-right: 70px;
+    margin-bottom: 70px;
+    width: 150px;
+    height: 150px;
+}
 
+.container .logo .item-logo .item {
+    width: 150px;
+    height: 150px;
+}
 
+.container .logo2 {
+    width: 62%;
+    /* background-color: teal; */
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row-reverse;
+}
 
+.container .logo2 .item-logo {
+    margin-right: 70px;
+    margin-bottom: 70px;
+    width: 150px;
+    height: 150px;
+}
 
-
-
-
-
-
-
-
+.container .logo2 .item-logo .item {
+    width: 150px;
+    height: 150px;
+}
 
 
 footer {
