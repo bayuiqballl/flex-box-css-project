@@ -9,3 +9,4 @@ komponen terbuat dari :
 > 3.  Gambar Logo
 
 untuk link bisa di akses di :
+[link](https://bayulogogallery.netlify.com/)
